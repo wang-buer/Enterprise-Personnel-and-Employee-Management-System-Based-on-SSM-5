@@ -9,7 +9,11 @@
 管理员：员工管理、请假管理、工资管理、考勤管理、公告管理、部门管理等
 
 员工：请假、查看考勤/工资等
+## 获取方式
 
+扫描下方，回复关键词  ：**员工** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 2、项目技术
 
